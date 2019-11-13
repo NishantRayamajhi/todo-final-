@@ -1,8 +1,8 @@
 # TodoApp
-![](1.gif) &nbsp;
-![](2.gif)&nbsp;
-![](3.gif)&nbsp;
-Note taking app for Android built with architecture components and MVVM architecture. Built the app as the project at a job interview with Agromall
+![](1.gif) </br>;
+![](2.gif) </br>;
+![](3.gif) </br>;
+Note taking app for Android built with architecture components and MVVM architecture. Built the app as the project for DMA Assignment
 ## Features
 * Local persistence using room DB
 * MVVM architecture 
@@ -18,4 +18,4 @@ To run the project, check the prerequisites below, then clone the repo and build
 *   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 *   [Room](https://developer.android.com/topic/libraries/architecture/room)
 ## Author
-Ezike Tobenna
+Nishant Rayamajhi
