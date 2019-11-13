@@ -1,4 +1,7 @@
 # TodoApp
+![](1.gif) &nbsp;
+![](2.gif)&nbsp;
+![](3.gif)&nbsp;
 Note taking app for Android built with architecture components and MVVM architecture. Built the app as the project at a job interview with Agromall
 ## Features
 * Local persistence using room DB
